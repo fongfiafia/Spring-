@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JdkDynamicProxy",
+            "request": "launch",
+            "mainClass": "app.JdkDynamicProxy",
+            "projectName": "Proxy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDemo",
+            "request": "launch",
+            "mainClass": "app.TestDemo",
+            "projectName": "Proxy"
+        }
+    ]
+}
