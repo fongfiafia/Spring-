@@ -1,4 +1,4 @@
-
+package app;
 public class AudioPlayer implements MediaPlayer {
     MediaAdapter mediaAdapter;
 

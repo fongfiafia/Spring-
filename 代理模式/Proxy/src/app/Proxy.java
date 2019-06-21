@@ -14,13 +14,6 @@ public class Proxy implements Person {
         man.eat();
     }
 
-    /**
-     * @param person the person to set
-     */
-    public void setPerson(Man man) {
-        this.man = man;
-    }
-
     @Override
     public void sleep() {
         man.sleep();
